@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying on Bandung Institute of Technology
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+email = 13218076@std.stei.itb.ac.id
+IG = @galaram_
 
 
 <!--
