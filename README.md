@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying on Bandung Institute of Technology
+- 📫 How to reach me: ...
+
+
 <!--
 **ilhamwp0701/ilhamwp0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
